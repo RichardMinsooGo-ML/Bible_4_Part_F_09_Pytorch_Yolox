@@ -77,15 +77,7 @@ def build_trans_config(trans_config='ssd'):
 
 # ------------------ Model Config ------------------
 ## YOLO series
-from .model_config.yolov1_config import yolov1_cfg
-from .model_config.yolov2_config import yolov2_cfg
-from .model_config.yolov3_config import yolov3_cfg
-from .model_config.yolov4_config import yolov4_cfg
-from .model_config.yolov5_config import yolov5_cfg
-from .model_config.yolov7_config import yolov7_cfg
-from .model_config.yolov8_config import yolov8_cfg
 from .model_config.yolox_config import yolox_cfg
-from .model_config.yolox2_config import yolox2_cfg
 
 def build_model_config(args):
     print('==============================')
