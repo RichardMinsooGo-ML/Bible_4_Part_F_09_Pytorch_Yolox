@@ -1,6 +1,6 @@
 # Engilish
-*  **Theory** : [https://wikidocs.net/225899](https://wikidocs.net/225899) <br>
-*  **Implementation** : [https://wikidocs.net/226043](https://wikidocs.net/226043)
+*  **Theory** : [https://wikidocs.net/226343](https://wikidocs.net/226343) <br>
+*  **Implementation** : [https://wikidocs.net/226344](https://wikidocs.net/226344)
 
 # 한글
 *  **Theory** : [https://wikidocs.net/225899](https://wikidocs.net/225899) <br>
